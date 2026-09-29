@@ -1,15 +1,20 @@
-# Roteiro para vídeo de demonstração
+# Roteiro do vídeo de demonstração
 
-Vídeo vertical de aproximadamente 70 segundos, sem narração, com música instrumental licenciada e textos curtos na tela. Grave somente o ambiente de QA com dados fictícios. Revise cada quadro antes de publicar.
+Vídeo vertical de 58 segundos, sem narração, com trilha instrumental original e legendas curtas. É uma montagem de capturas do ambiente de QA com dados fictícios; não é uma gravação contínua de cliques. Tatamio identifica o sistema, e Espaço Motus identifica o dojo piloto mostrado nas telas.
 
-| Tempo | Tela | Texto na tela |
+| Tempo | Tela | Assunto |
 | --- | --- | --- |
-| 0–8 s | Entrada e Home | Espaço Motus: gestão e experiência do aluno |
-| 8–18 s | Dashboard e menu | A rotina do dojo em um só lugar |
-| 18–29 s | Cadastros de alunos, turmas e unidades fictícias | Cadastros conectados à operação |
-| 29–43 s | Mensalidades, contas e fluxo de caixa | Visão financeira da rotina |
-| 43–52 s | Lista de chamada fictícia | Presença integrada às turmas |
-| 52–62 s | Perfil e vídeos didáticos com conta fictícia | Conteúdo e informações para o aluno |
-| 62–70 s | Interface móvel e temas | Desenvolvido para a rotina, também no celular |
+| 0–4 s | Abertura | Tatamio: gestão para dojos, projeto de estudo no Espaço Motus |
+| 4–9 s | Home | Atalhos e tarefas da rotina |
+| 9–14 s | Dashboard | Visão geral da administração |
+| 14–19 s | Turmas | Organização das aulas |
+| 19–24 s | Lista de chamada | Presença por período e turma |
+| 24–29 s | Mensalidades | Geração e consulta |
+| 29–34 s | Contas a receber | Títulos e recebimentos |
+| 34–39 s | Fluxo de caixa | Previsão e valores pagos |
+| 39–44 s | Cadastro de vídeos | Conteúdo didático |
+| 44–49 s | Vídeos para alunos | Categorias e subcategorias |
+| 49–54 s | Perfil do aluno | Informações do aluno |
+| 54–58 s | Encerramento | Link para o estudo de caso público |
 
-Não grave senhas, credenciais, valores reais, nomes reais ou informações de produção. Não salve uma nova baixa, chamada ou cadastro para obter a gravação.
+Nenhum nome, senha, comprovante ou valor de produção é exibido. A gravação não altera dados do sistema.

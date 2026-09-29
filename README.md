@@ -1,14 +1,14 @@
-# Espaço Motus — estudo de caso
+# Tatamio — estudo de caso no Espaço Motus
 
 ![Visão ilustrativa do sistema](assets/visao-geral.svg)
 
-**Um sistema de gestão para a rotina de um dojo, com área administrativa e experiência para alunos.** Este repositório apresenta o projeto, as decisões de desenvolvimento e as validações realizadas. A aplicação em produção, seus dados e seu código-fonte integral permanecem privados.
+**Tatamio é um sistema de gestão para a rotina de dojos, com área administrativa e experiência para alunos.** O Espaço Motus é o dojo piloto onde este projeto de estudo foi aplicado. Este repositório apresenta as decisões de desenvolvimento e as validações realizadas. A aplicação em produção, seus dados e seu código-fonte integral permanecem privados.
 
 > Visual acima criado para este portfólio. Os dados e números exibidos são fictícios; não é uma captura da produção.
 
 ## O produto
 
-O Espaço Motus reúne atividades que antes exigiam várias consultas e controles separados:
+O Tatamio reúne atividades que antes exigiam várias consultas e controles separados:
 
 | Rotina | O que a plataforma oferece |
 | --- | --- |
@@ -33,7 +33,7 @@ Novos materiais seguem os [critérios de publicação](docs/publicacao.md).
 
 ## Demonstração
 
-O [roteiro de demonstração](docs/roteiro-demo.md) percorre as principais funções em aproximadamente 70 segundos. A gravação deve usar exclusivamente contas e dados fictícios. Um vídeo demonstrativo poderá ser adicionado aqui depois de revisado para publicação.
+O [roteiro de demonstração](docs/roteiro-demo.md) percorre as principais funções usando exclusivamente contas e dados fictícios. O vídeo de portfólio apresenta o Tatamio como sistema e o Espaço Motus como dojo piloto.
 
 ## O que este repositório contém
 
@@ -43,10 +43,10 @@ O repositório público é independente do repositório de desenvolvimento. Uma 
 
 ## English overview
 
-Espaço Motus is an operational platform for a martial-arts school. This case study covers attendance, recurring fees, partial payments, cash-flow views, student content, responsive UI, quality checks and staged deployment. The production application and its source code remain private.
+Tatamio is a dojo-management system developed as a study project and piloted at Espaço Motus. This case study covers attendance, recurring fees, partial payments, cash-flow views, student content, responsive UI, quality checks and staged deployment. The production application and its source code remain private.
 
 ## Créditos e uso
 
-Estudo de caso elaborado por Vanderlei Pacheco Filho sobre o trabalho realizado para o Espaço Motus. A aplicação utiliza Adianti Framework/Template, tecnologia de terceiros não incluída neste repositório. O nome e a marca Espaço Motus identificam o projeto; sua inclusão aqui não concede licença sobre o sistema, a marca ou materiais de terceiros.
+Estudo de caso elaborado por Vanderlei Pacheco Filho sobre o Tatamio, aplicado no Espaço Motus. A aplicação utiliza Adianti Framework/Template, tecnologia de terceiros não incluída neste repositório. Espaço Motus é o nome e a marca do dojo piloto; sua inclusão aqui não concede licença sobre a marca ou materiais de terceiros.
 
 Este repositório não adota uma licença de código aberto nem concede permissão para redistribuir seus textos e ilustrações fora das funcionalidades permitidas pelo GitHub. A visibilidade pública não impede cópias técnicas; por isso, o código e os materiais operacionais do sistema não são publicados aqui.
